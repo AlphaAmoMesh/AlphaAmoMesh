@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlphaAmoMesh
-- 👀 I’m interested in ...  learning code
-- 🌱 I’m currently learning ... python, javascript, HTML, CSS & many more
+- 👀 I’m interested in ...  learning code to be a fully stacked coder
+- 🌱 I’m currently learning ... python, javascript, HTML, CSS, SQL & many more
 - 💞️ I’m looking to collaborate on ... anyone willing :)
 - 📫 How to reach me ... email: ameshboy97@gmail.com
 
